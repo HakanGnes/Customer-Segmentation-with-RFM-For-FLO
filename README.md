@@ -1,5 +1,4 @@
 # Customer Segmentation with RFM For FLO (Customer Segmentation with RFM)
-#
 # Business Problem:
 FLO wants to divide its customers into segments and determine marketing strategies according to these segments. To this end, customers' behaviors will be defined and groups will be created according to these behavioral clusters.
 #
